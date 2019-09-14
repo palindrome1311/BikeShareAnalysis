@@ -1,4 +1,4 @@
-# Udacity-Project-Bike-Share-Analysis
+# Project-Bike-Share-Analysis
 
 ## Overview
 In this project,we will make use of Python to explore data related to bikeshare systems for three major bikeshare systems in the
